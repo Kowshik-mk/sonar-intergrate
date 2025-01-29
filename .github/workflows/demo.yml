@@ -1,4 +1,4 @@
-name: sonarcloud
+name: sonarcloud1
 on: 
   workflow_dispatch:
 
