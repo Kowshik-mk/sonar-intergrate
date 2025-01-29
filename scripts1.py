@@ -10,7 +10,7 @@ parameter1= str(sys.argv[5])
 parameter2 = str(sys.argv[6])
 
 print( "the toke value is")
-def trigger_workflow(work_Flowname,parameter1,para_meter2):
+def trigger_workflow(workFlowname,parameter1,parameter2):
 
       headers = {
         "Accept": "application/vnd.github.v3+json",
